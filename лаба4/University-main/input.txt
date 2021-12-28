@@ -1,0 +1,121 @@
+7
+
+Taganrog
+ITA
+2
+02.03.09
+20
+2
+math 80
+information 80
+02.03.03
+18
+3
+math 100
+information 100
+rusion 100
+
+Taganrog
+DGTY
+1
+02.03.08
+10
+2
+math 82
+information 78
+
+Rostov
+DGTY
+2
+02.03.04
+30
+3
+math 82
+rusion 78
+english 77
+02.03.09
+30
+3
+math 82
+rusion 78
+english 77
+
+Piter
+SPBGU
+3
+02.03.08
+15
+2
+math 82
+information 78
+05.03.08
+30
+3
+math 85
+information 85
+english 80
+01.08.04
+5
+3
+math 90
+informaion 90
+rusion 95
+
+Moscov
+MGU
+5
+02.03.03
+15
+2
+math 95
+information 95
+02.03.09
+20
+3
+history 82
+rusion 78
+math 85
+06.04.08
+30
+3
+math 82
+information 78
+rusion 85
+01.01.08
+8
+2
+history 89
+rusion 95
+01.03.01
+15
+3
+english 82
+rusion 80
+histort 75
+
+Voroneg
+SPBGU
+2
+02.03.04
+30
+3
+math 82
+rusion 78
+english 77
+02.03.03
+15
+2
+math 95
+information 95
+
+Svetlograd
+MBOUL
+1
+01.07.05
+30
+3
+rusion 68
+math 64
+information 71
+
+

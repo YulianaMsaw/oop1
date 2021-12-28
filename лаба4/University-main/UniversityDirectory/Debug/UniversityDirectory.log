@@ -1,0 +1,8 @@
+﻿  Console.cpp
+C:\Users\User\source\repos\UniversityDirectory\UniversityDirectory\Console.cpp(18,27): warning C4018: >: несоответствие типов со знаком и без знака
+  main.cpp
+  Speciality.cpp
+  University.cpp
+  UniversityStorage.cpp
+  Создание кода...
+  UniversityDirectory.vcxproj -> C:\Users\User\source\repos\UniversityDirectory\Debug\UniversityDirectory.exe
